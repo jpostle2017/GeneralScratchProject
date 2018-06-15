@@ -1,3 +1,3 @@
 # GeneralScratchProject
-Free and Public
-Just playing around 
+Free and Public <br>
+    Just playing around 
