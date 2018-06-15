@@ -1,0 +1,2 @@
+# GeneralScratchProject
+Free and Public
